@@ -1,6 +1,6 @@
 # babel-plugin-call-function
 
-```json
+```
             plugins: [
               ["call-function", {
                 filter: 'url',
